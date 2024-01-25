@@ -1,6 +1,5 @@
 # ULRBf Advanced Python Mastery
 
-# Advanced Python Mastery
 한국어로 이전중
 A course by David Beazley (https://www.dabeaz.com)  
 Copyright (C) 2007-2023  
